@@ -1,1 +1,1 @@
-File print
+Symbolic link

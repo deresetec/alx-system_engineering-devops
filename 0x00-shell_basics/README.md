@@ -1,1 +1,1 @@
-Hidden files
+Display long format with numbers

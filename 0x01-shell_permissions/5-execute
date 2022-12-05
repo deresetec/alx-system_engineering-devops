@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x  hellow
+chmod u+x hellow

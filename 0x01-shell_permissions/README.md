@@ -1,1 +1,1 @@
-Permission for other
+-rwxr-x-wx

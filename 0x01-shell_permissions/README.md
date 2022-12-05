@@ -1,1 +1,1 @@
--rwxr-x-wx
+Command which make one mode same as another

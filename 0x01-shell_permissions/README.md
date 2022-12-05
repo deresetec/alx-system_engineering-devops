@@ -1,1 +1,1 @@
-Multiple permission
+execute permission to everybody

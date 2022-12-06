@@ -1,1 +1,1 @@
-encode and decode
+Print other line in input

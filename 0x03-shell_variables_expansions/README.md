@@ -1,1 +1,1 @@
-Count environmental variables
+List environmental, local variables and functions

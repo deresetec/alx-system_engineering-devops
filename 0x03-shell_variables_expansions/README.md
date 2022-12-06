@@ -1,1 +1,1 @@
-Add number with stored value in global variable named TRUEKNOWLEDGE
+Divide two global variables

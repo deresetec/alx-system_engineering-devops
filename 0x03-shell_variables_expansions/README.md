@@ -1,1 +1,1 @@
-Change base
+Cobine a-z except oo

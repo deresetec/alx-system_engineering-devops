@@ -1,1 +1,1 @@
-Divide two global variables
+Display result to power

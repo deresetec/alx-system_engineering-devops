@@ -1,1 +1,1 @@
-print confused smile
+Hello world

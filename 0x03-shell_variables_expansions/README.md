@@ -1,1 +1,1 @@
-Cobine a-z except oo
+Print a num with two decimal place

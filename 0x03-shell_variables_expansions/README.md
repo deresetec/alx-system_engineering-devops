@@ -1,1 +1,1 @@
-Display result to power
+Change base

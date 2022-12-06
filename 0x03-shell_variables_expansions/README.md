@@ -1,1 +1,1 @@
-Decimal to hexadecimal
+encode and decode

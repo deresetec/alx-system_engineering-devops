@@ -1,1 +1,1 @@
-Print other line in input
+Add two nums stored in two global variables

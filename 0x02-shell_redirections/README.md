@@ -1,1 +1,1 @@
-Hello world
+Display content of the file

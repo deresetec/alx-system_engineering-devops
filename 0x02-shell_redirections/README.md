@@ -1,1 +1,1 @@
-Change A and C to Z and e
+remove c from the input

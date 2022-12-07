@@ -1,1 +1,1 @@
-List all empty directories in current working directories
+Disply subdirectories woth certain extention

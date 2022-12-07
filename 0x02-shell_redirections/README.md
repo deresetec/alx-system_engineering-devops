@@ -1,1 +1,1 @@
-Disply subdirectories woth certain extention
+Display files with first letters

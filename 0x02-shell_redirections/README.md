@@ -1,1 +1,1 @@
-remove c from the input
+reverse the input

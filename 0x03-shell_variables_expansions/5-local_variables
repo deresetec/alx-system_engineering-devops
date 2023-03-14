@@ -1,0 +1,3 @@
+#!/bin/bash
+set # check "declare" if set didn't work
+
